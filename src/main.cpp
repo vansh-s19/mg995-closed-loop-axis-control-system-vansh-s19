@@ -4,7 +4,7 @@
 /**
  * @file main.cpp
  * @brief Embedded Servo Motor Control using MG995
- * @author Dushyant
+ * @author Vansh Saxena
  * @date 2026-02-28
  *
  * @details
